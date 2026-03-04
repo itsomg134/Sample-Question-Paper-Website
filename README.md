@@ -2,7 +2,7 @@
 
 A clean, modern, and responsive static website for browsing and previewing sample question papers. Built with HTML, CSS, and vanilla JavaScript, this repository provides a ready-to-use template for educational platforms, coaching institutes, or personal project portfolios.
 
-![Sample Question Paper Website Preview](https://via.placeholder.com/800x400?text=Question+Paper+Website+Preview)
+![Screenshot_4-3-2026_232257_127 0 0 1](https://github.com/user-attachments/assets/3279e7d2-efb0-4ce9-8bdf-1021f5a3db14)
 
 ## Features
 
@@ -13,9 +13,6 @@ A clean, modern, and responsive static website for browsing and previewing sampl
 - **Fully Responsive** – Works seamlessly on desktop, tablet, and mobile devices
 - **Modern Design** – Clean interface with soft gradients, cards, and thoughtful typography
 
-## Live Demo
-
-[View Live Demo](#) *(Add your deployment link here)*
 
 ## Technologies Used
 
