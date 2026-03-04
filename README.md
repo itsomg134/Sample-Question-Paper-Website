@@ -145,10 +145,14 @@ copies of the Software...
 
 ## Contact
 
-Your Name – [@yourtwitter](https://twitter.com/yourtwitter) – email@example.com
+Om Gedam
 
-Project Link: [https://github.com/yourusername/sample-question-paper-website](https://github.com/yourusername/sample-question-paper-website)
+GitHub: @itsomg134
 
----
+Email: omgedam123098@gmail.com
 
-**If you find this useful, please consider starring the repository!**
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
